@@ -1,0 +1,54 @@
+{
+  "products": {
+    "-NhnpoR9ca5KYtfD9uJh": {
+      "category": "Sneakers",
+      "color": "Silver",
+      "description": "menghadirkan sepatu sneakers pria dengan warna perak yang elegan. Desainnya yang simpel dan modern membuatnya cocok untuk berbagai gaya..",
+      "image": "https://www.footlocker.id/media/catalog/product/cache/f57d6f7ebc711fc328170f0ddc174b08/0/1/01-NEW-BALANCE-FFSTYNEWA-NEWM1906REE-Silver.jpg",
+      "name": "NEW BALANCE Mens",
+      "price": "2.079.200",
+      "shipping": "20000",
+      "size": "43, 44,"
+    },
+    "-NhnqXLUngTnnpMleFG8": {
+      "category": "Sneakers",
+      "color": "White",
+      "description": "sepatu ikonik yang tak lekang oleh waktu. Desain klasik dengan warna putih yang bersih membuatnya cocok untuk berbagai gaya. Sol karet yang nyaman dan tahan lama memberikan dukungan ekstra saat bermain basket.",
+      "image": "https://www.footlocker.id/media/catalog/product/cache/f57d6f7ebc711fc328170f0ddc174b08/0/1/01-NIKE-F34KBNIK5-NIKCW2288111-White.jpg",
+      "name": "air force 1 '07 men's",
+      "price": "1.549.000",
+      "shipping": "20000",
+      "size": "43, 44,"
+    },
+    "-NhnqXLUngTnnpMleFG9": {
+      "category": "Canvas",
+      "color": "Black",
+      "description": " klasik dengan warna hitam yang timeless. Desainnya yang simpel membuatnya cocok untuk berbagai gaya dan aktivitas.",
+      "image": "https://www.footlocker.id/media/catalog/product/cache/f57d6f7ebc711fc328170f0ddc174b08/0/1/01-VANS-FFSSBVAS5-VAS000EE3BLK-Black.jpg",
+      "name": "Aauthentic unisex",
+      "price": "1.549.000",
+      "shipping": "20000",
+      "size": "43, 44,"
+    },
+    "-NhnqXLUngTnnpMleFT9": {
+      "category": "Sneakers",
+      "color": "Black",
+      "description": "sepatu klasik yang tak lekang oleh waktu. Desainnya yang simpel dengan warna hitam membuatnya cocok untuk berbagai gaya.",
+      "image": "https://www.footlocker.id/media/catalog/product/cache/f57d6f7ebc711fc328170f0ddc174b08/0/1/01-ADIDAS-FFSSBADI5-ADIJH9160-Black.jpg",
+      "name": "samba og men's",
+      "price": "1.800.000",
+      "shipping": "20000",
+      "size": "43, 44,"
+    },
+    "-NhnqXLUngTnnpMleIO9": {
+      "category": "Sneakers",
+      "color": "Black",
+      "description": "Puma Suede XL adalah sepatu klasik yang telah diremajakan. Desainnya yang simpel dengan warna hitam membuatnya cocok untuk berbagai gaya dan kesempatan.",
+      "image": "https://www.footlocker.id/media/catalog/product/cache/f57d6f7ebc711fc328170f0ddc174b08/0/1/01-PUMA-FFSSEPMAA-PMA395205-04-Black.jpg",
+      "name": "suede xl unisex",
+      "price": "899.400",
+      "shipping": "20000",
+      "size": "43, 44,"
+    }
+  }
+}
